@@ -255,9 +255,9 @@
     </tr>
 </table>
 
->  032 源自此仓库：https://github.com/fromann/heart  作者：fromann
+>  
 > 
->  034 源自此仓库：https://github.com/Kaiser-DMr/-3D  作者：Kaiser-DMr
+>  
 
 # Python
 
@@ -507,3 +507,4 @@
     </td>
     </tr>
 </table>
+
